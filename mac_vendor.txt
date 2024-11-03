@@ -1,0 +1,40 @@
+00:1A:2B   Apple Inc.
+00:1C:B3   Cisco Systems
+00:1E:C2   Dell Inc.
+00:21:5A   Microsoft Corporation
+00:24:D7   Samsung Electronics
+00:26:B0   Hewlett Packard
+00:30:65   Intel Corporation
+00:40:96   IBM Corporation
+00:50:56   VMware, Inc.
+00:60:2F   Juniper Networks
+00:80:C6   NEC Corporation
+00:90:4B   Panasonic Corporation
+00:A0:C9   Toshiba Corporation
+00:B0:D0   Sony Corporation
+00:C0:26   Xerox Corporation
+00:D0:02   3Com Corporation
+00:E0:4C   Qualcomm Incorporated
+00:F0:7D   Huawei Technologies Co., Ltd
+10:40:F3   Google, Inc.
+20:4C:9E   LG Electronics
+24:05:0F   Xiaomi Communications Co Ltd
+3C:D9:2B   Amazon Technologies Inc.
+44:65:0D   Motorola Mobility LLC, a Lenovo Company
+50:3E:AA   Broadcom Inc.
+54:27:1E   Ruckus Wireless
+58:8A:5A   Aruba Networks
+5C:26:0A   Sony Mobile Communications AB
+68:05:CA   Hewlett Packard Enterprise
+6C:72:E7   NVIDIA
+74:E5:43   TP-LINK Technologies Co., Ltd.
+78:2B:CB   Roku, Inc.
+8C:3A:E3   Philips Lighting BV
+9C:5C:8E   Oppo Mobile Telecommunications Corp., Ltd
+AC:37:43   OnePlus Technology (Shenzhen) Co., Ltd
+B8:27:EB   Raspberry Pi Foundation
+C4:85:08   HTC Corporation
+D8:61:94   Netgear
+E0:3F:49   ASUS
+EC:9B:F3   Ubiquiti Inc.
+FC:F5:28   LG Innotek
